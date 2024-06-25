@@ -25,22 +25,23 @@ The Lethal Company Modding Community of the Thunderstore site prohibits the foll
 
 1. Hate, Bigotry or Discrimination based on any identifiable group.
 
-    ```
-    An "identifiable group" is defined for both offences as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability".
-    ```
-    > -- Criminal Code, R.S.C. 1985, c. C-46 (Canada) https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201825E
+    An "identifiable group" is defined for both offences as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability"[^1]
 
-    ```
     commission of the offence for a motive based on race, colour, birth, national or ethnic origin,
-    religion or belief, sexual orientation or disability or for another comparable motive
-    ```
-    > Ministry of Justice, Finland. *Criminal Code (39/1889; amendments up to 433/2021 included)*. Translation from Finnish. Legally binding only in Finnish and Swedish. https://www.finlex.fi/fi/laki/kaannokset/1889/en18890039.pdf
+    religion or belief, sexual orientation or disability or for another comparable motive[^2]
 
-2. Genocide or Support for Genocidal Actions
+    
 
-    > -- Criminal Code, R.S.C. 1985, c. C-46 (Canada) https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201825E
-
+2. Genocide or Support for Genocidal Actions[^1]
 
 ## Open Forum for Suggestions
 
 Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of community policy.
+
+### Footnotes
+
+[^1]:
+    -- Criminal Code, R.S.C. 1985, c. C-46 (Canada) https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201825E
+
+[^2]:
+    -- Ministry of Justice, Finland. *Criminal Code (39/1889; amendments up to 433/2021 included)*. Translation from Finnish. Legally binding only in Finnish and Swedish. https://www.finlex.fi/fi/laki/kaannokset/1889/en18890039.pdf
