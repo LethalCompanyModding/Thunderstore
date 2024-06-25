@@ -25,9 +25,9 @@ The Lethal Company Modding Community of the Thunderstore site prohibits the foll
 
 1. Hate, Bigotry or Discrimination based on any identifiable group.
 
-    An "identifiable group" is defined for both offences as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability"[^1]
+    > An "identifiable group" is defined for both offences as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability"[^1]
 
-    commission of the offence for a motive based on race, colour, birth, national or ethnic origin,
+    > Commission of the offence for a motive based on race, colour, birth, national or ethnic origin,
     religion or belief, sexual orientation or disability or for another comparable motive[^2]
 
     
