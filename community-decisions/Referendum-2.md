@@ -1,4 +1,14 @@
-# Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2
+<h1> Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2 </h1>
+
+- [Points of Order](#points-of-order)
+- [A suggested Policy for how to handle bigotry, hate and authors that espouse such positions](#a-suggested-policy-for-how-to-handle-bigotry-hate-and-authors-that-espouse-such-positions)
+  - [The Axioms Defining This Policy Decision](#the-axioms-defining-this-policy-decision)
+- [Examples of Allowed and Restricted Content](#examples-of-allowed-and-restricted-content)
+  - [Allowed Content](#allowed-content)
+  - [Disallowed Content](#disallowed-content)
+- [Open Forum for Suggestions](#open-forum-for-suggestions)
+- [Footnotes](#footnotes)
+
 
 ## Points of Order
 
@@ -33,6 +43,24 @@ The Lethal Company Modding Community of the Thunderstore site prohibits the foll
     
 
 2. Genocide or Support for Genocidal Actions[^1]
+
+## Examples of Allowed and Restricted Content
+
+> These examples are non-exhaustive. Links to off-platform material may still be grounds for package removal at the discretion of site and community moderation. If you have questions or concerns about your package you may speak to any Thunderstore Volunteer on the community server
+
+### Allowed Content
+
+- Links to Github source code repositories
+- Links to the author's Kofi
+- Links to an author's social media that contain none of the prohibited content outlined above
+- Links to moderated communities where prohibited content is not tolerated (Ex: The Lethal Company Modding Community, The Unofficial Lethal Company Community)
+
+### Disallowed Content
+
+- Links to hate groups or extremist websites (ex: The Ku Klux Klan's site)
+- Links to an author's social media that contains _any_ of the prohibited content outlined above
+- Links to communities where _any_ of the prohibited content is allowed or encouraged (ex: unmoderated Discord servers)
+- Package descriptions or titles that contain _any_ of the prohibited content
 
 ## Open Forum for Suggestions
 
