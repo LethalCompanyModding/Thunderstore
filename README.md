@@ -1,4 +1,4 @@
-# Lethal Company Modding Thunderstore Plicy
+# Lethal Company Modding Thunderstore Policy
 
 This repo contains notes and guidelines that users of the community are expected to be familiar with and follow while interacting with our community on the Thunderstore.
 
