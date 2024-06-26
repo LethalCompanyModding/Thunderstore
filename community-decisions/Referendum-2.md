@@ -70,7 +70,9 @@ The Lethal Company Modding Community of the Thunderstore site prohibits the foll
 
 ## Open Forum for Suggestions
 
-Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of community policy.
+[![Join the Discord](https://img.shields.io/discord/1168655651455639582?color=5865F2&label=Join+The+Discord&logo=discord&style=for-the-badge)](https://discord.gg/lcmod)
+
+Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of all existing community policy. Please join the community server and navigate to the [#Policy-Referendum-2](https://discord.gg/fwVWHR6y) channel.
 
 ### Footnotes
 
