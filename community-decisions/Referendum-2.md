@@ -21,19 +21,19 @@ Traditionally, the Thunderstore asks communities to judge the suitability of a m
 
 ### The Axioms Defining This Policy Decision
 
-`Axiom 1`: The community cannot tolerate bigoted or harmful speech.
+`Axiom 1`: The community cannot tolerate bigoted or harmful speech or content.
 
-`Axiom 2`: A mod author that chooses to engage in harmful speech and to do so in connection with their mod or Thunderstore/Community presence is necessarily making the Thunderstore and our Community a platform for spreading their harmful ideology.
+`Axiom 2`: A mod author that chooses to engage in harmful speech and to do so in connection with their mod or Thunderstore/Community presence is necessarily making the Thunderstore and our Community a platform for spreading their harmful content. If a mod author includes harmful content or links to harmful content within their mod listing, it makes our community responsible for spreading that harmful content.
 
-`Axiom 3`: Our community explicitly does not wish to be used as a platform for spreading harmful ideology
+`Axiom 3`: Our community explicitly does not wish to be used as a platform for spreading harmful content
 
-`Axiom 4`: An author that has used our community, against our wishes, to do the above has, by their own actions, become labelled _Persona Non Grata_ and there is no acceptable solution but their expulsion.
+`Axiom 4`: An author that has used our community, against our wishes, to do the above has, by their own actions, become labelled _Persona Non Grata_ and, depending on severity of the infraction, acceptable solutions range from permanent expulsion to forced reclassification as a "NSFW" mod.
 
-> This Axiom is currently under debate. Please see the thread titled "Proposed change to Axiom 4" for Bunya's suggestion
+> Axiom 4 is currently under debate. The currently proposed change has received enough support to be considered for implementation. Please see the thread titled "Proposed change to Axiom 4" for Bunya's suggestion and voice your opinion in the poll.
 
 In order to satisfy the above Axioms and keep the community safe for all users regardless of gender identity, orientation, race, nationality, gender, ethnicity, etc, our community proposes the following policy:
 
-The Lethal Company Modding Community of the Thunderstore site prohibits the following, non-exhaustive list of topics from appearing in the text fields of our uploaded packages, and further prohibits linking to sources that permit such:
+The Lethal Company Modding Community of the Thunderstore site defines as harmful content and prohibits the following, non-exhaustive, list of topics from appearing in the text fields of uploaded packages or links in packages:
 
 1. The committing or participation in committing of hate, bigotry or discrimination based on any identifiable group.
 
