@@ -7,7 +7,7 @@
   - [Allowed Content](#allowed-content)
   - [Disallowed Content](#disallowed-content)
 - [Open Forum for Suggestions](#open-forum-for-suggestions)
-- [Footnotes](#footnotes)
+  - [Footnotes](#footnotes)
 
 
 ## Points of Order
@@ -23,17 +23,21 @@ Traditionally, the Thunderstore asks communities to judge the suitability of a m
 
 `Axiom 1`: The community cannot tolerate bigoted or harmful speech.
 
-`Axiom 2`: A mod author that chooses to engage in harmful speech and to do so in connection with their mod or Thunderstore/Community presence is necessarily making the Thunderstore and Community a platform for spreading their harmful ideology.
+`Axiom 2`: A mod author that chooses to engage in harmful speech and to do so in connection with their mod or Thunderstore/Community presence is necessarily making the Thunderstore and our Community a platform for spreading their harmful ideology.
 
 `Axiom 3`: Our community explicitly does not wish to be used as a platform for spreading harmful ideology
 
 `Axiom 4`: An author that has used our community, against our wishes, to do the above has, by their own actions, become labelled _Persona Non Grata_ and there is no acceptable solution but their expulsion.
 
+> This Axiom is currently under debate. Please see the thread titled "Proposed change to Axiom 4" for Bunya's suggestion
+
 In order to satisfy the above Axioms and keep the community safe for all users regardless of gender identity, orientation, race, nationality, gender, ethnicity, etc, our community proposes the following policy:
 
 The Lethal Company Modding Community of the Thunderstore site prohibits the following, non-exhaustive list of topics from appearing in the text fields of our uploaded packages, and further prohibits linking to sources that permit such:
 
-1. Hate, Bigotry or Discrimination based on any identifiable group.
+1. The committing or participation in committing of hate, bigotry or discrimination based on any identifiable group.
+
+    Community members will not commit nor participate in committing hate, bigotry, or discrimination acts. Nor will community members link their work to a group or person who commits or participates in commiting the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined hate, bigotry or discrimination acts. The community does not wish to be associated with such acts.
 
     > An "identifiable group" is defined for both offences as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability"[^1]
 
@@ -42,7 +46,9 @@ The Lethal Company Modding Community of the Thunderstore site prohibits the foll
 
     
 
-2. Genocide or Support for Genocidal Actions[^1]
+2. The support of genocide or genocidal actions[^1]
+
+    Community members will not commit nor participate in committing support of genocide or genocidal actions. Nor will community members link their work to a group or person who commits or participates in commiting the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined acts. The community does not wish to be associated with such.
 
 ## Examples of Allowed and Restricted Content
 
