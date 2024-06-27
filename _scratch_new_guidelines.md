@@ -12,9 +12,9 @@ These guidelines were last updated on the 29th of June, 2024 by public committee
   - [General Upload Guidelines](#general-upload-guidelines)
   - [Forking an Existing Mod](#forking-an-existing-mod)
   - [Unacceptable Content Policy](#unacceptable-content-policy)
-  - [Examples of Allowed and Restricted Content](#examples-of-allowed-and-restricted-content)
-    - [Allowed Content](#allowed-content)
-    - [Disallowed Content](#disallowed-content)
+    - [Examples of Allowed and Restricted Content](#examples-of-allowed-and-restricted-content)
+      - [Allowed Content](#allowed-content)
+      - [Disallowed Content](#disallowed-content)
     - [Footnotes](#footnotes)
 
 
@@ -85,18 +85,18 @@ The Lethal Company Modding Community of the Thunderstore site defines as harmful
 
     Community members will not commit nor participate in committing support of genocide or genocidal actions. Nor will community members link their work to a group or person who commits or participates in commiting the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined acts. The community does not wish to be associated with such.
 
-## Examples of Allowed and Restricted Content
+### Examples of Allowed and Restricted Content
 
 > These examples are non-exhaustive. Links to off-platform material may still be grounds for package removal at the discretion of site and community moderation. If you have questions or concerns about your package you may speak to any Thunderstore Volunteer on the community server
 
-### Allowed Content
+#### Allowed Content
 
 - Links to Github source code repositories
 - Links to the author's Kofi
 - Links to an author's social media that contain none of the prohibited content outlined above
 - Links to moderated communities where prohibited content is not tolerated (Ex: The Lethal Company Modding Community, The Unofficial Lethal Company Community)
 
-### Disallowed Content
+#### Disallowed Content
 
 - Links to hate groups or extremist websites (ex: The Ku Klux Klan's site)
 - Links to an author's social media that contains _any_ of the prohibited content outlined above
