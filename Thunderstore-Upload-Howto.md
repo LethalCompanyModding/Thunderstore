@@ -2,8 +2,6 @@
 
 Hey, you made a mod, great work! But uploading to the Thunderstore can be a bit daunting and there are a few _gotchas_ that aren't really well documented. In this brief tutorial I will help you avoid common pitfalls and successfully upload your first (or perhaps beyond) package to our community.
 
-> Notice: This document is still a WIP draft and is missing multiple crucial steps or complete information in existing steps
-
 ## Table of Contents
 - [Uploading Your First Package](#uploading-your-first-package)
   - [Table of Contents](#table-of-contents)
@@ -25,6 +23,7 @@ Hey, you made a mod, great work! But uploading to the Thunderstore can be a bit 
   - [Examples](#examples)
     - [Packaging for Moresuits](#packaging-for-moresuits)
     - [Packaging a Modpack](#packaging-a-modpack)
+- [Updating My Existing Mod](#updating-my-existing-mod)
 
 # Package basics
 
@@ -45,6 +44,8 @@ This should be a unique icon of dimensions 256x256 for your mod. Seriously, use 
 ### README.MD
 
 This file is a standard markdown file that describes your mod. Please be descriptive and tell users what to expect when installing and using your mod. Include important information such as what parts of the mod are configurable and known issues to be extra helpful.
+
+You may use [the markdown preview tool](https://thunderstore.io/tools/markdown-preview/) to make sure your readme looks good
 
 > Note: It is Thunderstore policy that even mods marked as NSFW may not have links to NSFW sites in their README file
 
@@ -152,3 +153,7 @@ First, you should consider if you _need_ to upload a modpack. R2ModMan can expor
 Your final folder structure should look like this:
 
 ![img](attachments/howto/modpack.webp)
+
+# Updating My Existing Mod
+
+To update an existing mod, simply change the manifest.json `version` field to be higher than it was previously and then upload your changes again to the same Team you did the first time.
