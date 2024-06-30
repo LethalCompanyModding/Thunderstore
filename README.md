@@ -6,6 +6,7 @@ This repo contains notes, guidelines and other information that may be useful to
 
 - [Uploading Guidelines](Thunderstore-Guidelines.md)
 
-## Uploading Guide
+## How to Successfully Upload a Mod
 
-- TBA
+- [Uploading Guide](Thunderstore-Upload-Howto.md)
+- [Choosing a License](Choosing-A-License.md)
