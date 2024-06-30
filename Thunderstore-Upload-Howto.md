@@ -32,6 +32,8 @@ There are a few basic files every package should have, lets go over them one at 
 
 > Note: All file names should match the ones I've provided exactly, this includes capitalization.
 
+If you'd like to you may follow along with a pre-made zip file: [Download](attachments/howto/example-mod.zip)
+
 ## Required Files
 
 ### icon.png
