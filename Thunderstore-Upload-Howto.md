@@ -29,7 +29,8 @@ Hey, you made a mod, great work! But uploading to the Thunderstore can be a bit 
 
 There are a few basic files every package should have, lets go over them one at a time. You can follow along in this section, or use the [site documentation](https://thunderstore.io/package/create/docs/) instead if you think you can manage on your own.
 
-> Note: All file names should match the ones I've provided exactly, this includes capitalization.
+> [!IMPORTANT]
+> All file names should match the ones I've provided exactly, this includes capitalization.
 
 If you'd like to you may follow along with a pre-made zip file: [Download](https://github.com/LethalCompanyModding/thunderstore/raw/main/attachments/howto/example-mod.zip)
 
@@ -39,7 +40,8 @@ If you'd like to you may follow along with a pre-made zip file: [Download](https
 
 This should be a unique icon of dimensions 256x256 for your mod. Seriously, use _exactly_ 256x256 or it will not work. It will show up in the Thunderstore and mod managers so make it interesting, descriptive and appropriate to a PG-13/PEGI-12 audience. 
 
-> Note: It is Thunderstore policy that even mods marked as NSFW may not have NSFW material in the icon.
+> [!WARNING]
+> It is Thunderstore policy that even mods marked as NSFW may not have NSFW material in the icon.
 
 ### README.MD
 
@@ -47,7 +49,8 @@ This file is a standard markdown file that describes your mod. Please be descrip
 
 You may use [the markdown preview tool](https://thunderstore.io/tools/markdown-preview/) to make sure your readme looks good
 
-> Note: It is Thunderstore policy that even mods marked as NSFW may not have links to NSFW sites in their README file
+> [!WARNING]
+> It is Thunderstore policy that even mods marked as NSFW may not have links to NSFW sites in their README file
 
 ### manifest.json
 
@@ -108,7 +111,8 @@ If we wanted to include multiple dependencies we should add commas to the end of
 
 ## Optional Files
 
-Not every file needs to be included to make your package work, but having these will make your mod stand out just a bit more and look more professional.
+> [!NOTE]
+> Not every file needs to be included to make your package work, but having these will make your mod stand out just a bit more and look more professional.
 
 ### CHANGELOG.MD
 
@@ -116,13 +120,15 @@ This is simply another markdown file, just like the README. The difference is th
 
 ### License
 
-This file has no required name nor is it required to upload your package successfully, but I highly recommend you do so anyway. A License file should be immediately recognizable as such and the filenames LICENSE, LICENSE.MD or LICENSE.TXT are very common and popular choices.
+> [!TIP]
+> This file has no required name nor is it required to upload your package successfully, but it is highly recommend you do so anyway. A License file should be immediately recognizable as such and the filenames LICENSE, LICENSE.MD or LICENSE.TXT are very common and popular choices.
 
 You may be asking "Why do I need a license?" well, a license tells users, other modders and Thunderstore staff what other people are allowed to do with your mod. A license may include provisions or prohibitions for nearly anything including selling your mod as part of a compilation, copying and redistributing your mod or forking / creating derived works.
 
 For help choosing an appropriate license for your work see [Choosing a License](Choosing-A-License.md)
 
-> Note: In the future, mods that plan to be used by others as a library will be required to maintain permissive licensing to remain on the Lethal Company section of the Thunderstore. Please be familiar with licenses and get ahead of the game now by choosing the correct one for your needs sooner rather than later
+> [!IMPORTANT]
+>  In the future, mods that plan to be used by others as a library will be required to maintain permissive licensing to remain on the Lethal Company section of the Thunderstore. Please be familiar with licenses and get ahead of the game now by choosing the correct one for your needs sooner rather than later
 
 # Package Structure
 
@@ -148,7 +154,8 @@ First, you should consider if you _need_ to upload a modpack. R2ModMan can expor
 
 2. If you have modified the configuration settings for any of the mods your modpack will include, copy their configuration file from your profiles BepInEx/config/ folder into a folder called `config`
 
-> Note: Do not include any actuall DLLs in your modpack. All mods your pack requires should be listed as dependencies. Do not include the contents of your BepInEx/core folder, these are system files that are already installed for every user. Do not include copyrighted content or content you do not have the full legal rights to distribute.
+> [!IMPORTANT]
+> Do not include any actual DLLs in your modpack. All mods your pack requires should be listed as dependencies. Do not include the contents of your BepInEx/core folder, these are system files that are already installed for every user. Do not include copyrighted content or content you do not have the full legal rights to distribute.
 
 Your final folder structure should look like this:
 
