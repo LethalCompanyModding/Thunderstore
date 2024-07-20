@@ -42,7 +42,7 @@ In keeping with our desire to foster a collaborative community, we strictly proh
 
 - Purposefully damaging another author's work at runtime, especially if it creates errors or other output that can confuse users. This may also include deleting or operating on any other author's work outside of your plugin's own directory.
 
-- Purposefully damage the user's computer or game. This includes damaging saves, or crashing the game intentionally without it being an explicit feature of the mod. This may also include deleting or operating on any files outside of the plugin directory.
+- Purposefully damaging the user's computer or game. This includes damaging saves, or crashing the game intentionally without it being an explicit feature of the mod. This may also include deleting or operating on any files outside of the plugin directory.
 
 - Uploading client side enabled cheating mods or mods that grant an unfair advantage to one player to the community.
 
@@ -56,7 +56,8 @@ When uploading a package to the community we ask that community members follow t
 
 ## Forking an Existing Mod
 
-Even if you have the legal right to redistribute another author's work, we ask that you follow these guidelines first before uploading a fork to our community:
+> [!IMPORTANT] 
+> Even if you have the legal right to redistribute another author's work, we ask that you follow these guidelines first before uploading a fork to our community:
 
 If the mod already exists within the Lethal Company Modding public organization, simply ask to be granted maintainer rights and get to work, great! No fork is required.
 
