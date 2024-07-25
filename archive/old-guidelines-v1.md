@@ -1,6 +1,6 @@
 # Lethal Company Modding Community Guidelines
 
-These guidelines were last updated on the 3rd of March, 2024 and have been made available publically for those that cannot view them on the community Discord or otherwise require a reference.
+These guidelines were last updated on the 3rd of March, 2024 and have been made available publicly for those that cannot view them on the community Discord or otherwise require a reference.
 
 1. Focus on the Community:
 As part of the modding community for Lethal Company, our main aim is to collaborate in order to enhance the game, making it more enjoyable and engaging for everyone. Cooperation is crucial in achieving this goal. It's important for all modders to consider the community's well-being while interacting with one another. Behaviors that negatively impact the community or cause division for example: purposely making mods that are not compatible or cause another mod to output errors and confuse users, are not acceptable.

@@ -92,7 +92,7 @@ The `dependencies` field is an array of other existing mods on the Thunderstore 
 
 Example use:
 
-In order to include [Enhancer](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer/) as a dependency to your mod (Don't do this, nothing depends on Enhancer, this is an example only), first go to its Thunderstore page and look at this line: `Dependency string: Mom_Llama-Lethal_Company_Enhancer-0.1.12` that is Enhancer's dependency string, IE what you put in the dependecy field. So our mod's dependencies field would look like this:
+In order to include [Enhancer](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer/) as a dependency to your mod (Don't do this, nothing depends on Enhancer, this is an example only), first go to its Thunderstore page and look at this line: `Dependency string: Mom_Llama-Lethal_Company_Enhancer-0.1.12` that is Enhancer's dependency string, IE what you put in the dependency field. So our mod's dependencies field would look like this:
 
 ```json
 "dependencies": [
@@ -134,13 +134,13 @@ For help choosing an appropriate license for your work see [Choosing a License](
 
 ## Why do mod managers unpack my mod differently?
 
-R2ModManager / ThunderstoreMM both unpack mods into their own directory named after its dependency string and flatten the file hierachy. This is a security feature and cannot be disabled _but_ there is a list of certain override directories that will change this behavior. See the documentation on the [R2ModMan Github repo](https://github.com/ebkr/r2modmanPlus/wiki/Structuring-your-Thunderstore-package) for more information on how to package your files so that they extract how your mod expects them to.
+R2ModManager / ThunderstoreMM both unpack mods into their own directory named after its dependency string and flatten the file hierarchy. This is a security feature and cannot be disabled _but_ there is a list of certain override directories that will change this behavior. See the documentation on the [R2ModMan Github repo](https://github.com/ebkr/r2modmanPlus/wiki/Structuring-your-Thunderstore-package) for more information on how to package your files so that they extract how your mod expects them to.
 
 ## Examples
 
 ### Packaging for Moresuits
 
-As an example of how to control the unpacking of your mod, lets examine the library [MoreSuits by 753](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/). Moresuits is a library that loads textures from the /moresuits/ folder in every other plugin folder as suits for you and your friends to wear. In order to make this directory unpack correctly you simply need to follow the instructions in the r2modman repo and create a `moresuits` folder underneat anotherone named `plugins`. R2MM will recognize this folder structure and override the default behavior to preserve it.
+As an example of how to control the unpacking of your mod, lets examine the library [MoreSuits by 753](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/). Moresuits is a library that loads textures from the /moresuits/ folder in every other plugin folder as suits for you and your friends to wear. In order to make this directory unpack correctly you simply need to follow the instructions in the r2modman repo and create a `moresuits` folder underneath another one named `plugins`. R2MM will recognize this folder structure and override the default behavior to preserve it.
 
 Your folder should look something like this
 
@@ -148,7 +148,7 @@ Your folder should look something like this
 
 ### Packaging a Modpack
 
-First, you should consider if you _need_ to upload a modpack. R2ModMan can export profile codes to quickly share your modlist and config files with your friends. If that's all you need, then great, you can simply use a profile code instead. Modpacks are great for sharing with more than a few people, can include a readme and can be updated, so they can be an attractive option for creators. Let's go thru an example modpack now.
+First, you should consider if you _need_ to upload a modpack. R2ModMan can export profile codes to quickly share your mod list and config files with your friends. If that's all you need, then great, you can simply use a profile code instead. Modpacks are great for sharing with more than a few people, can include a readme and can be updated, so they can be an attractive option for creators. Let's go thru an example modpack now.
 
 1. Create your icon, manifest readme and changelog the same as any other package. See [above](#package-basics) for more information on these files and their purpose.
 

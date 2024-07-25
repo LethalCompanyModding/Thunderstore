@@ -38,7 +38,7 @@ These guidelines were last updated on the 29th of June, 2024 by public committee
 
 In keeping with our desire to foster a collaborative community, we strictly prohibit mod authors from the following:
 
-- Purposefully introducing incompatabilities with another author's work. This may include using BepinEx's incompatability flag.
+- Purposefully introducing incompatibilities with another author's work. This may include using BepinEx's incompatibility flag.
 
 - Purposefully damaging another author's work at runtime, especially if it creates errors or other output that can confuse users. This may also include deleting or operating on any other author's work outside of your plugin's own directory.
 
@@ -73,18 +73,18 @@ The Lethal Company Modding Community of the Thunderstore site defines as harmful
 
 1. The committing or participation in committing of hate, bigotry or discrimination based on any identifiable group.
 
-    Community members will not commit nor participate in committing hate, bigotry, or discrimination acts. Nor will community members link their work to a group or person who commits or participates in commiting the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined hate, bigotry or discrimination acts. The community does not wish to be associated with such acts.
+    Community members will not commit nor participate in committing hate, bigotry, or discrimination acts. Nor will community members link their work to a group or person who commits or participates in committing the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined hate, bigotry or discrimination acts. The community does not wish to be associated with such acts.
 
-    > An "identifiable group" is defined for both offences as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability"[^1]
+    > An "identifiable group" is defined for both offenses as "any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression or mental or physical disability"[^1]
 
-    > Commission of the offence for a motive based on race, colour, birth, national or ethnic origin,
+    > Commission of the offense for a motive based on race, colour, birth, national or ethnic origin,
     religion or belief, sexual orientation or disability or for another comparable motive[^2]
 
     
 
 2. The support of genocide or genocidal actions[^1]
 
-    Community members will not commit nor participate in committing support of genocide or genocidal actions. Nor will community members link their work to a group or person who commits or participates in commiting the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined acts. The community does not wish to be associated with such.
+    Community members will not commit nor participate in committing support of genocide or genocidal actions. Nor will community members link their work to a group or person who commits or participates in committing the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined acts. The community does not wish to be associated with such.
 
 ### Examples of Allowed and Restricted Content
 
@@ -101,7 +101,7 @@ The Lethal Company Modding Community of the Thunderstore site defines as harmful
 
 - Links to hate groups or extremist websites (ex: The Ku Klux Klan's site)
 - Links to an author's social media that contains _any_ of the prohibited content outlined above
-- Links to communities where _any_ of the prohibited content is allowed or encouraged (ex: unmoderated Discord servers)
+- Links to communities where _any_ of the prohibited content is allowed or encouraged (ex: un-moderated Discord servers)
 - Package descriptions or titles that contain _any_ of the prohibited content
 
 ### Footnotes

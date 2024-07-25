@@ -77,7 +77,7 @@ This license permits other users to share, copy and remix your work without rest
 
 ### Creative Commons Zero
 
-This license is a complete revokation of authorship rights. Works released under this license functionally have no restrictions and are completely free to use for any purpose by anyone without notice or credit.
+This license is a complete revocation of authorship rights. Works released under this license functionally have no restrictions and are completely free to use for any purpose by anyone without notice or credit.
 
 [Read More](https://creativecommons.org/publicdomain/zero/1.0/)
 
