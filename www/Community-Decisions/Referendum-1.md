@@ -1,6 +1,7 @@
 ---
 title: Referendum 1
 parent: Referendums
+grand_parent: Home
 ---
 
 <h1> Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 1 </h1>

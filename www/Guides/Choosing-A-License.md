@@ -1,6 +1,7 @@
 ---
 title: Choosing a License
 parent: Guides
+grand_parent: Home
 ---
 
 # Choosing a License

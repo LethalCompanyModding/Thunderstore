@@ -1,6 +1,7 @@
 ---
 title: Uploading Your First Package
 parent: Guides
+grand_parent: Home
 ---
 
 # Uploading Your First Package
