@@ -1,5 +1,6 @@
 ---
 title: Legal
+parent: Home
 nav_order: 4
 ---
 

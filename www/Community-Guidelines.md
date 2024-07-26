@@ -1,5 +1,6 @@
 ---
 title: Community Guidelines
+parent: Home
 nav_order: 4
 ---
 
