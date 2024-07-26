@@ -1,5 +1,5 @@
 ---
-title: Your First Package
+title: Uploading Your First Package
 parent: Guides
 ---
 
