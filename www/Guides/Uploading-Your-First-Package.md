@@ -125,15 +125,23 @@ This is simply another markdown file, just like the README. The difference is th
 
 ### License
 
-> [!TIP]
+{: .tip}
 > This file has no required name nor is it required to upload your package successfully, but it is highly recommend you do so anyway. A License file should be immediately recognizable as such and the filenames LICENSE, LICENSE.MD or LICENSE.TXT are very common and popular choices.
 
 You may be asking "Why do I need a license?" well, a license tells users, other modders and Thunderstore staff what other people are allowed to do with your mod. A license may include provisions or prohibitions for nearly anything including selling your mod as part of a compilation, copying and redistributing your mod or forking / creating derived works.
 
 For help choosing an appropriate license for your work see [Choosing a License](Choosing-A-License.html)
 
+
 {: .important}
->  In the future, mods that plan to be used by others as a library will be required to maintain permissive licensing to remain on the Lethal Company section of the Thunderstore. Please be familiar with licenses and get ahead of the game now by choosing the correct one for your needs sooner rather than later
+> For Library Developers:
+>
+>New mods intended for use and consumption as libraries must have permissive licensing to remain listed in the Lethal Company section of Thunderstore. Please familiarize yourself with different licenses and choose the appropriate one promptly to ensure your mod stays listed. Existing Mod authors should select an appropriate license and either bundle it in their package as a LICENSE file as recommended in the Packaging Tutorial or link to a public github repository that contains such a LICENSE file as their web link.
+
+{: .warning}
+> A Deadline Approaches:
+> 
+> This Guideline will be enforced more strictly beginning September 1st 2024, please take this time to bring your existing packages into compliance
 
 # Package Structure
 

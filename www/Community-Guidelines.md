@@ -59,6 +59,11 @@ When uploading a package to the community we ask that community members follow t
 
 - Do not mislead users about your package. Do not use misleading names or misrepresent the contents of your package. This specifically includes uploading existing packages under a new name to surprise your friends. We're sorry, but people other than your friends use our community.
 
+{: .warning}
+> This Guideline will be enforced more strictly beginning September 1st 2024, please take this time to bring your existing packages into compliance
+
+- New mods intended for use and consumption as libraries must have permissive licensing to remain listed in the Lethal Company section of Thunderstore. Please familiarize yourself with different licenses and choose the appropriate one promptly to ensure your mod stays listed. Existing Mod authors should select an appropriate license and either bundle it in their package as a LICENSE file as recommended in the Packaging Tutorial or link to a public github repository that contains such a LICENSE file as their web link.
+
 ## Forking an Existing Mod
 
 {: .important}
