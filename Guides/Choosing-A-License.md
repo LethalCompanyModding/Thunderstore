@@ -1,8 +1,13 @@
+---
+title: Choosing a License
+parent: Guides
+---
+
 # Choosing a License
 
 Hey, so you've made a mod, great job! But now you're stumped: Which license do I choose? Here are some suggestions from the Lethal Company Modding Community. Make sure you understand any license you select fully.
 
-> [!NOTE]
+{: .note}
 > Changing a project's license does not apply retroactively. Choose an appropriate license at the start of your project and stick with it to avoid confusion and problems down the road
 
 ## Table of Contents

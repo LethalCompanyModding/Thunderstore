@@ -1,3 +1,8 @@
+---
+title: Referendum 2
+parent: Referendums
+---
+
 <h1> Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2 </h1>
 
 - [Points of Order](#points-of-order)
@@ -28,8 +33,6 @@ Traditionally, the Thunderstore asks communities to judge the suitability of a m
 `Axiom 3`: Our community explicitly does not wish to be used as a platform for spreading harmful content
 
 `Axiom 4`: An author that has used our community, against our wishes, to do the above has, by their own actions, become labelled _Persona Non Grata_ and, depending on severity of the infraction, acceptable solutions range from permanent expulsion to forced reclassification as a "NSFW" mod.
-
-> Axiom 4 is currently under debate. The currently proposed change has received enough support to be considered for implementation. Please see the thread titled "Proposed change to Axiom 4" for Bunya's suggestion and voice your opinion in the poll.
 
 In order to satisfy the above Axioms and keep the community safe for all users regardless of gender identity, orientation, race, nationality, gender, ethnicity, etc, our community proposes the following policy:
 

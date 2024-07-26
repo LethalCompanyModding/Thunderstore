@@ -1,3 +1,8 @@
+---
+title: Community Guidelines
+nav_order: 4
+---
+
 # Lethal Company Modding Community Guidelines
 
 These guidelines were last updated on the 29th of June, 2024 by public committee and have been made available publicly for those that cannot view them on the community Discord or otherwise require a reference.
@@ -56,7 +61,7 @@ When uploading a package to the community we ask that community members follow t
 
 ## Forking an Existing Mod
 
-> [!IMPORTANT] 
+{: .important}
 > Even if you have the legal right to redistribute another author's work, we ask that you follow these guidelines first before uploading a fork to our community:
 
 If the mod already exists within the Lethal Company Modding public organization, simply ask to be granted maintainer rights and get to work, great! No fork is required.
