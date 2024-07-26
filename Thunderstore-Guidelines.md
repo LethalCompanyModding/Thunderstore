@@ -70,7 +70,7 @@ If the mod already exists within the Lethal Company Modding public organization,
 
 - If the mod is unmaintained and needs a maintainer, contact the original author, if possible, and see if you can be added to the listing as a collaborator. This will ensure the users of the mod will not suffer from needing to change from one dependency to another
 
-- At this stage, if the project is appropriately licensed to allow such, a fork may be required. It is _highly_ encouraged to contact Robin about moving the mod in question into community possession within the Lethal Company Modding Github so that it may be maintained indefinitely without changing dependency strings again.
+- At this stage, if the project is appropriately licensed to allow such, a fork may be required. It is _highly_ encouraged to contact Robyn about moving the mod in question into community possession within the Lethal Company Modding Github so that it may be maintained indefinitely without changing dependency strings again.
 
 ## Unacceptable Content Policy
 
