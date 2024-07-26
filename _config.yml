@@ -1,6 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs/just-the-docs
+title: Lethal Company Modding
+description: Thunderstore Community
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 url: https://just-the-docs.github.io
