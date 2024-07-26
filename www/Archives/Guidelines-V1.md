@@ -1,4 +1,12 @@
-# Lethal Company Modding Community Guidelines
+---
+title: Archived Guidelines (V1)
+parent: Archives
+grand_parent: Home
+---
+
+# Archived Guidelines (V1)
+
+## Lethal Company Modding Community Guidelines
 
 These guidelines were last updated on the 3rd of March, 2024 and have been made available publicly for those that cannot view them on the community Discord or otherwise require a reference.
 
