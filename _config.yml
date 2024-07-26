@@ -5,7 +5,8 @@ color_scheme: dark
 url: https://lethalcompanymodding.github.io/Thunderstore/
 
 aux_links:
-  Discord: discord.gg/lcmod
+  Repo: https://github.com/LethalCompanyModding/Thunderstore
+  Discord: https://discord.gg/lcmod
 
 defaults:
   - scope:
