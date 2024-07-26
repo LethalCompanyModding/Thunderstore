@@ -24,6 +24,8 @@ callouts:
   note:
     title: Notice!
     color: yellow
+  info:
+    color: yellow
   warning:
     title: Warning!
     color: red
