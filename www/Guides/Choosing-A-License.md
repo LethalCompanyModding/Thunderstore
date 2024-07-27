@@ -28,6 +28,7 @@ Hey, so you've made a mod, great job! But now you're stumped: Which license do I
     - [Creative Commons Zero](#creative-commons-zero)
   - [MIT License](#mit-license)
   - [Boost Software License](#boost-software-license)
+- [Acknowledgments](#acknowledgments)
 
 
 ## GNU Licenses
@@ -98,3 +99,7 @@ A short and simple permissive license with conditions only requiring preservatio
 A simple permissive license only requiring preservation of copyright and license notices for source (and not binary) distribution. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 [Read More](https://choosealicense.com/licenses/bsl-1.0/)
+
+# Acknowledgments
+
+The contents of this page have been adapted from [ChoosingAlicense](https://choosealicense.com/) and are distributed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)

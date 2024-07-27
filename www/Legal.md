@@ -8,10 +8,12 @@ nav_order: 4
 
 - [Licensing](#licensing)
 - [Acknowledgments](#acknowledgments)
+  - [Just The Docs Template](#just-the-docs-template)
+  - [Choosing A License](#choosing-a-license)
 
 ## Licensing
 
-All content produced by Lethal Company Modding for this repository is licensed under the CC-0 license
+All content produced by Lethal Company Modding for this repository is licensed under the Creative Commons 1.0 Universal License ("CC-0")
 
 {: .info}
 >Creative Commons Legal Code
@@ -145,6 +147,8 @@ this CC0 or use of the Work.
 
 ## Acknowledgments
 
+### Just The Docs Template
+
 All content produced by JustTheDocs as part of the JustTheDocs Template files are licensed under the MIT license
 
 {: .info}
@@ -162,3 +166,11 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Choosing A License
+
+The contents of specifically marked pages were adapted from ChoosingALicense and provided under the Creative Commons Attribution 3.0 Unported License
+
+{: .info}
+Creative Commons Legal Code
+> Available Here: https://creativecommons.org/licenses/by/3.0/legalcode.txt
