@@ -102,4 +102,4 @@ A simple permissive license only requiring preservation of copyright and license
 
 # Acknowledgments
 
-The contents of this page have been adapted from [ChoosingAlicense](https://choosealicense.com/) and are distributed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
+The contents of this page have been adapted from [ChooseAlicense](https://choosealicense.com/) and are distributed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
