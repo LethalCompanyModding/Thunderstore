@@ -28,8 +28,9 @@ callouts:
   note:
     title: Notice!
     color: yellow
-  info:
-    color: yellow
+  license:
+    title: "License Information:"
+    color: grey-dk
   warning:
     title: Warning!
     color: red
