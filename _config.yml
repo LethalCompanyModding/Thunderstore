@@ -14,7 +14,7 @@ description: Thunderstore Community
 theme: just-the-docs
 color_scheme: dark
 url: https://lethalcompanymodding.github.io/Thunderstore/
-favicon_ico: "https://avatars.githubusercontent.com/u/164603783?s=48&v=4"
+favicon_ico: "/favicon.png"
 
 aux_links:
   Github: https://github.com/LethalCompanyModding/Thunderstore
