@@ -74,11 +74,12 @@ The Lethal Company Modding Community of the Thunderstore site defines as harmful
 
 ## Open Forum for Suggestions
 
-[![Join the Discord](https://img.shields.io/discord/1168655651455639582?color=5865F2&label=Join+The+Discord&logo=discord&style=for-the-badge)](https://discord.gg/lcmod)
+{: .note}
+> This feedback channel has been archived
+> 
+> This policy and suggested changes, were added to our community guidelines, thank you for your feedback.
 
-Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of all existing community policy. Please join the community server and navigate to the Policy-Referendum-2 channel. (Note: This channel has been archived)
-
-This policy, and suggested changes, were added to our community guidelines, thank you for your feedback.
+Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of all existing community policy. Please join the community server and navigate to the Policy-Referendum-2 channel. 
 
 ### Footnotes
 
