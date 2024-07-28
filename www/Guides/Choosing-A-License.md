@@ -4,6 +4,10 @@ parent: Guides
 grand_parent: Home
 ---
 
+<h3>This page up to date for:</h3>
+All Versions
+{: .label .label-green }
+
 # Choosing a License
 
 Hey, so you've made a mod, great job! But now you're stumped: Which license do I choose? Here are some suggestions from the Lethal Company Modding Community. Make sure you understand any license you select fully.
