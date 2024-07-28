@@ -1,18 +1,28 @@
-title: Lethal Company Modding
-description: Thunderstore Community
-theme: just-the-docs
-color_scheme: dark
-url: https://lethalcompanymodding.github.io/Thunderstore/
-
-aux_links:
-  Github: https://github.com/LethalCompanyModding/Thunderstore
-  Discord: https://discord.gg/lcmod
-
+#Default layout to default :3
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+
+#------------------------#
+# General Stuff          #
+#------------------------#
+
+title: Lethal Company Modding
+description: Thunderstore Community
+theme: just-the-docs
+color_scheme: dark
+url: https://lethalcompanymodding.github.io/Thunderstore/
+favicon_ico: "https://avatars.githubusercontent.com/u/164603783?s=48&v=4"
+
+aux_links:
+  Github: https://github.com/LethalCompanyModding/Thunderstore
+  Discord: https://discord.gg/lcmod
+
+#------------------------#
+# Callouts and Colors    #
+#------------------------#
 
 callouts_level: quiet # or loud
 callouts:
@@ -34,6 +44,10 @@ callouts:
   warning:
     title: Warning!
     color: red
+
+#------------------------#
+# Search configuration   #
+#------------------------#
 
 search_enabled: true
 
@@ -60,3 +74,14 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+#------------------------#
+# Edit button footer     #
+#------------------------#
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit Page"
+gh_edit_repository: "https://github.com/LethalCompanyModding/Thunderstore"
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
