@@ -16,10 +16,10 @@ You will learn:
 - How to deploy your plugin to the game folder for debugging
 
 Skill Level: Beginner
-{: .label-green }
+{: .label .label-green }
 
 Estimated Time: 20 Minutes
-{: .label-orange }
+{: .label .label-orange }
 
 Prerequisites:
 - [Visual Studio](https://visualstudio.microsoft.com/) / [VS Code](https://code.visualstudio.com/) / C# Compatible IDE
@@ -61,8 +61,6 @@ Once you have created the new repository by clicking the [Create Repository] but
 
 Create a new folder with your project name wherever you'd like it to be on your computer and then open your terminal inside that folder. Initialize the project using the template by using the following command after substituting your own information in for the bracketed terms. Don't worry if its a little confusing, I will describe each item and give an example below.
 
-> dotnet new LCM_TS_Publishing --ProjectGUID [INSERT GUID] --ProjectAuthor [INSERT AUTHOR] --ProjectDESC [INSERT DESCRIPTION] --ProjectURL [INSERT GITHUB LINK]
-
 ### Template Options
 
 {: .important}
@@ -72,19 +70,19 @@ Create a new folder with your project name wherever you'd like it to be on your 
   <dt>ProjectGUID</dt>
   <dd>
   
-  This is your project's fully qualified name. It will only be used by BepinEx for the purpose of uniquely identifying your plugin in the chainloader. If you do not know how to create a unique reverse FQDN for your project then follow this format: com.github.your-user-name.repo-name. Make sure it is **lower case**
+  This is your project's fully qualified name. It will only be used by BepinEx for the purpose of uniquely identifying your plugin in the chainloader. If you do not know how to create a unique reverse FQDN for your project then follow this format: com.github.your-user-name.repo-name. Make sure it is <strong>lower case</strong>
 
   </dd>
 
   <dt>ProjectAuthor</dt>
   <dd>
   
-  This is the exact name of your Thunderstore Team as it appears on the Thunderstore. ~~Double~~ Triple check this is correct.
+  This is the exact name of your Thunderstore Team as it appears on the Thunderstore. <del>Double</del> Triple check this is correct.
   
   </dd>
 
   <dt>ProjectDESC</dt>
-  <dd
+  <dd>
   
   This is a brief description of what your mod does. It should be fewer than 250 characters or publishing will fail.
 
@@ -99,4 +97,6 @@ Create a new folder with your project name wherever you'd like it to be on your 
 
 
 Example Command:
-> dotnet new LCM_TS_Publishing --ProjectGUID com.github.robyn.mycoolmod --ProjectAuthor RobynLlama --ProjectDESC "The coolest mod ever made" --ProjectURL https://github.com/LethalCompanyModding/LCM-Template-TSPublishing
+```bash
+dotnet new LCM_TS_Publishing --ProjectGUID com.github.robyn.mycoolmod --ProjectAuthor RobynLlama --ProjectDESC "The coolest mod ever made" --ProjectURL https://github.com/LethalCompanyModding/LCM-Template-TSPublishing
+```
