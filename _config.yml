@@ -12,7 +12,7 @@ defaults:
 title: Lethal Company Modding
 description: Thunderstore Community
 theme: just-the-docs
-color_scheme: dark
+color_scheme: lethal-dark
 url: https://lethalcompanymodding.github.io/Thunderstore/
 favicon_ico: "/favicon.png"
 
