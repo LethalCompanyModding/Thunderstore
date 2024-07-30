@@ -5,16 +5,14 @@ grand_parent: Home
 ---
 
 <h3>This page up to date for:</h3>
-Version 56
-{: .label }
+
+![Static Badge](https://img.shields.io/badge/Version-56-blue?style=for-the-badge)
 
 # Overview
 
-Skill Level: Beginner
-{: .label .label-green }
+![Static Badge](https://img.shields.io/badge/Skill_Level-Beginner-blue?style=for-the-badge)
 
-Estimated Time: 20 Minutes
-{: .label .label-orange }
+![Static Badge](https://img.shields.io/badge/Estimated_Time-20_Minutes-blue?style=for-the-badge)
 
 You will learn:
 - How to use the LCMTemplate with Publishing to setup a new plugin project

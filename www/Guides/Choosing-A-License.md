@@ -5,16 +5,14 @@ grand_parent: Home
 ---
 
 <h3>This page up to date for:</h3>
-All Versions
-{: .label .label-green }
+
+![Static Badge](https://img.shields.io/badge/Version-All-blue?style=for-the-badge)
 
 # Overview
 
-Skill Level: Intermediate
-{: .label .label-orange }
+![Static Badge](https://img.shields.io/badge/Skill_Level-Intermediate-orange?style=for-the-badge)
 
-Estimated Time: 30 Minutes
-{: .label .label-orange }
+![Static Badge](https://img.shields.io/badge/Estimated_Time-45_Minutes-orange?style=for-the-badge)
 
 You will learn:
 - The pros and cons of various open source licenses
