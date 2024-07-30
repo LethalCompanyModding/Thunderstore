@@ -8,6 +8,21 @@ grand_parent: Home
 All Versions
 {: .label .label-green }
 
+# Overview
+
+Skill Level: Intermediate
+{: .label .label-orange }
+
+Estimated Time: 30 Minutes
+{: .label .label-orange }
+
+You will learn:
+- The pros and cons of various open source licenses
+- The license that is most suitable for your project (hopefully)
+
+Prerequisites:
+- Patience
+
 # Choosing a License
 
 Hey, so you've made a mod, great job! But now you're stumped: Which license do I choose? Here are some suggestions from the Lethal Company Modding Community. Make sure you understand any license you select fully.
@@ -17,6 +32,7 @@ Hey, so you've made a mod, great job! But now you're stumped: Which license do I
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [Choosing a License](#choosing-a-license)
   - [Table of Contents](#table-of-contents)
   - [GNU Licenses](#gnu-licenses)

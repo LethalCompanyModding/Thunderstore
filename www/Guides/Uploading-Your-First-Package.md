@@ -8,11 +8,30 @@ grand_parent: Home
 Version 56
 {: .label }
 
+Skill Level: Beginner
+{: .label .label-green }
+
+Estimated Time: 10 Minutes
+{: .label .label-green }
+
+# Overview
+
+You will learn:
+- The names and functions of each file required to create a Thunderstore package
+- The quirks of the various mod managers and the directory flattening rules your package must follow
+  - How to apply the above skills to create a package with a specific directory structure (EG: A `moresuits` mod)
+- How to update an existing package
+
+Prerequisites:
+- A [Thunderstore Account](https://thunderstore.io) (for publishing)
+  - A Thunderstore [Team](https://thunderstore.io/settings/teams/) to publish to.
+
 # Uploading Your First Package
 
 Hey, you made a mod, great work! But uploading to the Thunderstore can be a bit daunting and there are a few _gotchas_ that aren't really well documented. In this brief tutorial I will help you avoid common pitfalls and successfully upload your first (or perhaps beyond) package to our community.
 
 ## Table of Contents
+- [Overview](#overview)
 - [Uploading Your First Package](#uploading-your-first-package)
   - [Table of Contents](#table-of-contents)
 - [Package basics](#package-basics)
