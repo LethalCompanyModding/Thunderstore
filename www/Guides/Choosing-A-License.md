@@ -8,28 +8,27 @@ grand_parent: Home
 
 ![Static Badge](https://img.shields.io/badge/Version-All-blue?style=for-the-badge)
 
-# Overview
+# Choosing a License
 
 ![Static Badge](https://img.shields.io/badge/Skill_Level-Intermediate-orange?style=for-the-badge)  
 ![Static Badge](https://img.shields.io/badge/Estimated_Time-45_Minutes-orange?style=for-the-badge)
-
-You will learn:
-- The pros and cons of various open source licenses
-- The license that is most suitable for your project (hopefully)
-
-Prerequisites:
-- Patience
-
-# Choosing a License
 
 Hey, so you've made a mod, great job! But now you're stumped: Which license do I choose? Here are some suggestions from the Lethal Company Modding Community. Make sure you understand any license you select fully.
 
 {: .note}
 > Changing a project's license does not apply retroactively. Choose an appropriate license at the start of your project and stick with it to avoid confusion and problems down the road
 
+You will learn:
+
+- The pros and cons of various open source licenses
+- The license that is most suitable for your project (hopefully)
+
+Prerequisites:
+
+- Patience
+
 ## Table of Contents
 
-- [Overview](#overview)
 - [Choosing a License](#choosing-a-license)
   - [Table of Contents](#table-of-contents)
   - [GNU Licenses](#gnu-licenses)
@@ -39,14 +38,13 @@ Hey, so you've made a mod, great job! But now you're stumped: Which license do I
   - [Mozilla Public License 2.0](#mozilla-public-license-20)
   - [Appache License 2.0](#appache-license-20)
   - [Creative Commons Licenses](#creative-commons-licenses)
-    - [Attribution 4.0 International:](#attribution-40-international)
-    - [Attribution 4.0 Share A like International:](#attribution-40-share-a-like-international)
+    - [Attribution 4.0 International](#attribution-40-international)
+    - [Attribution 4.0 Share A like International](#attribution-40-share-a-like-international)
     - [Attribution 4.0 No Derivatives Non Commercial](#attribution-40-no-derivatives-non-commercial)
     - [Creative Commons Zero](#creative-commons-zero)
   - [MIT License](#mit-license)
   - [Boost Software License](#boost-software-license)
 - [Acknowledgments](#acknowledgments)
-
 
 ## GNU Licenses
 
@@ -81,19 +79,19 @@ A permissive license whose main conditions require preservation of copyright and
 
 ## Creative Commons Licenses
 
-### Attribution 4.0 International:
+### Attribution 4.0 International
 
 This license permits other users to share, copy and remix your work without restriction except that they must attribute the original author.
 
 [Read More](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-### Attribution 4.0 Share A like International:
+### Attribution 4.0 Share A like International
 
 This license permits other users to share, copy and remix your work without restriction except that they must attribute the original author and must share any derived works under the same license as the original.
 
 [Read More](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-### Attribution 4.0 No Derivatives Non Commercial 
+### Attribution 4.0 No Derivatives Non Commercial
 
 This license permits other users to share, copy and remix your work without restrictions except that they must attribute the original author, may not sell your work or use it commercially and may not create and distribute derived works that contain your work in part or whole.
 
@@ -119,4 +117,4 @@ A simple permissive license only requiring preservation of copyright and license
 
 # Acknowledgments
 
-The contents of this page have been adapted from [ChooseAlicense](https://choosealicense.com/) and are distributed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
+The contents of this page have been adapted from [ChooseALicense](https://choosealicense.com/) and are distributed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)

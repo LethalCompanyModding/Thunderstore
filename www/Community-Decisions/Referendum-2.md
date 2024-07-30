@@ -4,17 +4,17 @@ parent: Referendums
 grand_parent: Home
 ---
 
-<h1> Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2 </h1>
+# Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2
 
-- [Points of Order](#points-of-order)
-- [A suggested Policy for how to handle bigotry, hate and authors that espouse such positions](#a-suggested-policy-for-how-to-handle-bigotry-hate-and-authors-that-espouse-such-positions)
-  - [The Axioms Defining This Policy Decision](#the-axioms-defining-this-policy-decision)
-- [Examples of Allowed and Restricted Content](#examples-of-allowed-and-restricted-content)
-  - [Allowed Content](#allowed-content)
-  - [Disallowed Content](#disallowed-content)
-- [Open Forum for Suggestions](#open-forum-for-suggestions)
-  - [Footnotes](#footnotes)
-
+- [Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2](#lethal-company-community---thunderstore-referendum-on-rules-and-policy-no-2)
+  - [Points of Order](#points-of-order)
+  - [A suggested Policy for how to handle bigotry, hate and authors that espouse such positions](#a-suggested-policy-for-how-to-handle-bigotry-hate-and-authors-that-espouse-such-positions)
+    - [The Axioms Defining This Policy Decision](#the-axioms-defining-this-policy-decision)
+  - [Examples of Allowed and Restricted Content](#examples-of-allowed-and-restricted-content)
+    - [Allowed Content](#allowed-content)
+    - [Disallowed Content](#disallowed-content)
+  - [Open Forum for Suggestions](#open-forum-for-suggestions)
+    - [Footnotes](#footnotes)
 
 ## Points of Order
 
@@ -48,8 +48,6 @@ The Lethal Company Modding Community of the Thunderstore site defines as harmful
     > Commission of the offense for a motive based on race, colour, birth, national or ethnic origin,
     religion or belief, sexual orientation or disability or for another comparable motive[^2]
 
-    
-
 2. The support of genocide or genocidal actions[^1]
 
     Community members will not commit nor participate in committing support of genocide or genocidal actions. Nor will community members link their work to a group or person who commits or participates in committing the same. Further, community members commit to keeping any spaces they reserve for the use of developing, maintaining or promoting their community hosted content clean of the above defined acts. The community does not wish to be associated with such.
@@ -76,15 +74,15 @@ The Lethal Company Modding Community of the Thunderstore site defines as harmful
 
 {: .note}
 > This feedback channel has been archived
-> 
+>
 > This policy and suggested changes, were added to our community guidelines, thank you for your feedback.
 
-Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of all existing community policy. Please join the community server and navigate to the Policy-Referendum-2 channel. 
+Please join us for the week of June 24th to discuss the above policy and provide feedback on the status of all existing community policy. Please join the community server and navigate to the Policy-Referendum-2 channel.
 
 ### Footnotes
 
 [^1]:
-    -- Criminal Code, R.S.C. 1985, c. C-46 (Canada) https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201825E
+    -- Criminal Code, R.S.C. 1985, c. C-46 (Canada) <https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201825E>
 
 [^2]:
-    -- Ministry of Justice, Finland. *Criminal Code (39/1889; amendments up to 433/2021 included)*. Translation from Finnish. Legally binding only in Finnish and Swedish. https://www.finlex.fi/fi/laki/kaannokset/1889/en18890039.pdf
+    -- Ministry of Justice, Finland. **Criminal Code (39/1889; amendments up to 433/2021 included)**. Translation from Finnish. Legally binding only in Finnish and Swedish. <https://www.finlex.fi/fi/laki/kaannokset/1889/en18890039.pdf>

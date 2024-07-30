@@ -4,7 +4,7 @@ parent: Referendums
 grand_parent: Home
 ---
 
-<h1> Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 1 </h1>
+# Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 1
 
 - [Points of Order](#points-of-order)
 - [Summary](#summary)

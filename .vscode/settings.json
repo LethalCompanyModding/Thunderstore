@@ -14,5 +14,10 @@
         "PEGI",
         "teleporting",
         "Thunderstore"
-    ]
+    ],
+    "markdownlint.config": {
+        "MD025": false,
+        "MD028": false,
+        "MD033": false,
+    }
 }
