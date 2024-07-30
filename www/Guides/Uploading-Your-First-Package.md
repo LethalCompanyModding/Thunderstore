@@ -8,13 +8,13 @@ grand_parent: Home
 Version 56
 {: .label }
 
+# Overview
+
 Skill Level: Beginner
 {: .label .label-green }
 
 Estimated Time: 10 Minutes
 {: .label .label-green }
-
-# Overview
 
 You will learn:
 - The names and functions of each file required to create a Thunderstore package

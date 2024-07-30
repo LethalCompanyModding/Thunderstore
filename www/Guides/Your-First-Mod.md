@@ -8,13 +8,13 @@ grand_parent: Home
 Version 56
 {: .label }
 
+# Overview
+
 Skill Level: Beginner
 {: .label .label-green }
 
 Estimated Time: 20 Minutes
 {: .label .label-orange }
-
-# Overview
 
 You will learn:
 - How to use the LCMTemplate with Publishing to setup a new plugin project
