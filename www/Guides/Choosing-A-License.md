@@ -10,8 +10,7 @@ grand_parent: Home
 
 # Overview
 
-![Static Badge](https://img.shields.io/badge/Skill_Level-Intermediate-orange?style=for-the-badge)
-
+![Static Badge](https://img.shields.io/badge/Skill_Level-Intermediate-orange?style=for-the-badge)  
 ![Static Badge](https://img.shields.io/badge/Estimated_Time-45_Minutes-orange?style=for-the-badge)
 
 You will learn:
