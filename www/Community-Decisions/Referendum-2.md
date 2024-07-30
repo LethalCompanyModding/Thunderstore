@@ -4,9 +4,9 @@ parent: Referendums
 grand_parent: Home
 ---
 
-# Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2
+# Referendum on Rules and Policy no. 2
 
-- [Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 2](#lethal-company-community---thunderstore-referendum-on-rules-and-policy-no-2)
+- [Referendum on Rules and Policy no. 2](#referendum-on-rules-and-policy-no-2)
   - [Points of Order](#points-of-order)
   - [A suggested Policy for how to handle bigotry, hate and authors that espouse such positions](#a-suggested-policy-for-how-to-handle-bigotry-hate-and-authors-that-espouse-such-positions)
     - [The Axioms Defining This Policy Decision](#the-axioms-defining-this-policy-decision)

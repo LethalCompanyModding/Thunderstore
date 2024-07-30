@@ -4,10 +4,11 @@ parent: Referendums
 grand_parent: Home
 ---
 
-# Lethal Company Community - Thunderstore Referendum on Rules and Policy no. 1
+# Referendum on Rules and Policy no. 1
 
-- [Points of Order](#points-of-order)
-- [Summary](#summary)
+- [Referendum on Rules and Policy no. 1](#referendum-on-rules-and-policy-no-1)
+  - [Points of Order](#points-of-order)
+  - [Summary](#summary)
 
 ## Points of Order
 
