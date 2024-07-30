@@ -8,18 +8,18 @@ grand_parent: Home
 Version 56
 {: .label }
 
+Skill Level: Beginner
+{: .label .label-green }
+
+Estimated Time: 20 Minutes
+{: .label .label-orange }
+
 # Overview
 
 You will learn:
 - How to use the LCMTemplate with Publishing to setup a new plugin project
 - How to configure your Thunderstore publishing workflow to automatically publish when your plugin updates
 - How to deploy your plugin to the game folder for debugging
-
-Skill Level: Beginner
-{: .label .label-green }
-
-Estimated Time: 20 Minutes
-{: .label .label-orange }
 
 Prerequisites:
 - [Visual Studio](https://visualstudio.microsoft.com/) / [VS Code](https://code.visualstudio.com/) / C# Compatible IDE
@@ -77,7 +77,7 @@ Create a new folder with your project name wherever you'd like it to be on your 
   <dt>ProjectAuthor</dt>
   <dd>
   
-  This is the exact name of your Thunderstore Team as it appears on the Thunderstore. <del>Double</del> Triple check this is correct.
+  This is the exact name of your Thunderstore Team as it appears on the Thunderstore. <del>Double</del> Triple check that this is correct.
   
   </dd>
 
