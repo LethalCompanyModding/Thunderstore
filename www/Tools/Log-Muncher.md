@@ -4,6 +4,10 @@ parent: Tools
 grand_parent: Home
 ---
 
+<h3>This page up to date for:</h3>
+
+[![Static Badge](https://img.shields.io/badge/LogMuncher-3.1.0-blue?style=for-the-badge)](https://github.com/LethalCompanyModding/LogMuncher/releases/tag/3.1.0)
+
 # Log Muncher
 
 Log Muncher is a command-line tool that parses BepinEx logs and helps identify which errors are the most in need of attention. At the most extremes, Log Muncher can take a file with over 400,000 lines and condense it into fewer than 100 potential issues, of which, the top 10 will likely contain the most valuable information for debugging.
@@ -12,23 +16,22 @@ Log Muncher will output any log it analyzes into easy-to-read html format that c
 
 ## Table of Contents
 
-- [Log Muncher](#log-muncher)
-  - [Table of Contents](#table-of-contents)
-  - [Download](#download)
-  - [Usage and Arguments](#usage-and-arguments)
-  - [LC Problem Matcher](#lc-problem-matcher)
-    - [Ignorable Non-Issues](#ignorable-non-issues)
-      - [LCM 00000](#lcm-00000)
-      - [LCM 00001](#lcm-00001)
-    - [Slight Issues](#slight-issues)
-    - [Moderate Issues](#moderate-issues)
-      - [LCM 20000](#lcm-20000)
-      - [LCM 20001](#lcm-20001)
-      - [LCM 20002](#lcm-20002)
-    - [Serious Issues](#serious-issues)
-      - [LCM 35000](#lcm-35000)
-    - [Critical Issues](#critical-issues)
-      - [LCM 40000](#lcm-40000)
+- [Table of Contents](#table-of-contents)
+- [Download](#download)
+- [Usage and Arguments](#usage-and-arguments)
+- [LC Problem Matcher](#lc-problem-matcher)
+  - [Ignorable Non-Issues](#ignorable-non-issues)
+    - [LCM 00000](#lcm-00000)
+    - [LCM 00001](#lcm-00001)
+  - [Slight Issues](#slight-issues)
+  - [Moderate Issues](#moderate-issues)
+    - [LCM 20000](#lcm-20000)
+    - [LCM 20001](#lcm-20001)
+    - [LCM 20002](#lcm-20002)
+  - [Serious Issues](#serious-issues)
+    - [LCM 35000](#lcm-35000)
+  - [Critical Issues](#critical-issues)
+    - [LCM 40000](#lcm-40000)
 
 ## Download
 
@@ -74,6 +77,15 @@ Log Muncher must be sent arguments to tell it what to do. I'll briefly describe 
   <dd>
   
   If this flag appears anywhere in the arguments Log Muncher will not output anything but critical errors to the console window at all. This option causes Log Muncher to run marginally faster
+
+  </dd>
+  <dt>--source</dt>
+  <dd>
+  
+  This argument can be provided a source name to filter for. Source names are the names LogMuncher outputs in the resulting HTML files like this `Source: LethalLevelLoader`. This argument can be provided multiple times to allow more than one source but each provided source increases the time needed to filter by a small amount. It is recommended to use --quiet when filtering to reduce console spam. Because source names are controlled by the plugin itself and can be any string you may need to quote the string if it has spaces in it `"My Cool Mod"` and source names must match exactly including capitalization.
+
+  Example usage:
+  <pre>LogMuncher -f MyFolderFullOfLogs --source LethalLevelLoader --source HarmonyX --quiet</pre>
 
   </dd>
   <dt>--version</dt>
