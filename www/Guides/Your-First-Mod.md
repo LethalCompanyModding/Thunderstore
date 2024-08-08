@@ -83,7 +83,7 @@ Create a new folder with your project name wherever you'd like it to be on your 
 
   </dd>
 
-  <dt>ProjectAuthor</dt>
+  <dt>ProjectAUTHOR</dt>
   <dd>
   
   This is the exact name of your Thunderstore Team as it appears on the Thunderstore. <del>Double</del> Triple check that this is correct.
@@ -109,7 +109,7 @@ Example Command:
 ```bash
 dotnet new LCM_TS_Publishing \
  --ProjectGUID com.github.robyn.mycoolmod \
- --ProjectAuthor RobynLlama \
+ --ProjectAUTHOR RobynLlama \
  --ProjectDESC "The coolest mod ever made" \
  --ProjectURL https://github.com/LethalCompanyModding/LCM-Template-TSPublishing
 ```
