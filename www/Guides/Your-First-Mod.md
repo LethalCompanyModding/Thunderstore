@@ -58,7 +58,12 @@ Prerequisites:
 
 Before installing any template, take a moment to review all the files and be certain you trust the source. Our template's source code can be found [here](https://github.com/LethalCompanyModding/LCM-Template-TSPublishing).
 
-When you're ready to install the template run the following command in your terminal `dotnet new install [NUGET PACKAGE ID]`
+When you're ready to install the template run the following command in your terminal
+```sh
+git clone https://github.com/LethalCompanyModding/LCM-Template-TSPublishing template
+cd template
+dotnet new install .
+```
 
 ### Create the Remote Workspace
 
