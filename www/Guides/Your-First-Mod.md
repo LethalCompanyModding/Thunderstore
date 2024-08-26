@@ -6,10 +6,10 @@ grand_parent: Home
 
 <h3>This page up to date for:</h3>
 
-{: .warning}
-> The template featured on this page is not yet complete. None of the features are expected to work at this time. Feel free to acquaint yourself with the process but do not follow along with commands at this time!
+{: .note}
+> The template featured on this page is a work progress but you should be able to get a project started and publishing to the Thunderstore
 
-![Static Badge](https://img.shields.io/badge/Version-none-darkred?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Version-62-green?style=for-the-badge)
 
 # Your First Mod
 
@@ -34,20 +34,19 @@ Prerequisites:
 
 ## Table of Contents
 
-- [Your First Mod](#your-first-mod)
-  - [Table of Contents](#table-of-contents)
-  - [Initialize Your Plugin Repository](#initialize-your-plugin-repository)
-    - [Install the Template](#install-the-template)
-    - [Create the Remote Workspace](#create-the-remote-workspace)
-    - [Create the Local Workspace](#create-the-local-workspace)
-      - [Template Options](#template-options)
-    - [Building and Running Your First Mod](#building-and-running-your-first-mod)
-    - [Automated Publishing with a Github Action](#automated-publishing-with-a-github-action)
-      - [Setting Up Your Publishing Key](#setting-up-your-publishing-key)
-      - [Running the Publish Action](#running-the-publish-action)
-    - [Troubleshooting](#troubleshooting)
-      - [Type or Namespace BepinEx Could Not Be Found](#type-or-namespace-bepinex-could-not-be-found)
-      - [If The Template Failed to Push Origin](#if-the-template-failed-to-push-origin)
+- [Table of Contents](#table-of-contents)
+- [Initialize Your Plugin Repository](#initialize-your-plugin-repository)
+  - [Install the Template](#install-the-template)
+  - [Create the Remote Workspace](#create-the-remote-workspace)
+  - [Create the Local Workspace](#create-the-local-workspace)
+    - [Template Options](#template-options)
+  - [Sync Your Project's Origin](#sync-your-projects-origin)
+  - [Building and Running Your First Mod](#building-and-running-your-first-mod)
+  - [Automated Publishing with a Github Action](#automated-publishing-with-a-github-action)
+    - [Setting Up Your Publishing Key](#setting-up-your-publishing-key)
+    - [Running the Publish Action](#running-the-publish-action)
+  - [Troubleshooting](#troubleshooting)
+    - [Type or Namespace BepinEx Could Not Be Found](#type-or-namespace-bepinex-could-not-be-found)
 
 ## Initialize Your Plugin Repository
 
@@ -65,6 +64,8 @@ git clone https://github.com/LethalCompanyModding/LCM-Template-TSPublishing temp
 cd template
 dotnet new install .
 ```
+
+If you have an existing install of the template you may need to add --force to the end of the above command to force it to update the template.
 
 ### Create the Remote Workspace
 
@@ -112,6 +113,9 @@ Create a new folder with your project name wherever you'd like it to be on your 
 
 Example Command:
 
+{ .important }
+> This command will not work in powershell due to bad escaping. You should run this command via GitBash
+
 ```bash
 dotnet new LCM_TS_Publishing \
  --ProjectGUID com.github.robyn.mycoolmod \
@@ -120,7 +124,22 @@ dotnet new LCM_TS_Publishing \
  --ProjectURL https://github.com/LethalCompanyModding/LCM-Template-TSPublishing
 ```
 
-If the template fails to push, see the [Troubleshooting](#if-the-template-failed-to-push-origin) section
+<!-- If the template fails to push, see the [Troubleshooting](#if-the-template-failed-to-push-origin) section -->
+
+### Sync Your Project's Origin
+
+The template actually copies the complete git history of our source files into your new project. This is a good thing because you can receive updates to the template with just a single merge request if something needs to change in the future. But, obviously, you want to be able to push your own changes to your own project. Eventually this step will be done automatically, for now, follow along with these 3 commands to remove the template as the origin and add your own, then add the template as an upstream source to fetch updates from.
+
+Before starting, make sure you know your repo's .git url. You can get this by going to your repo in Github and looking for a button that says "<> Code" on it. Click that to get a dropdown and then copy either the HTTP or SSH git link to use in the next command.
+
+{ .note }
+> You will need to run these commands in GitBash on Windows
+
+```bash
+git remote remove origin
+git remote add origin >Your repo .git url here<
+git remote add upstream git@github.com:LethalCompanyModding/Thunderstore.git
+```
 
 ### Building and Running Your First Mod
 
@@ -165,6 +184,7 @@ Pushing a new tag like this will trigger the workflow to compile and upload your
 
 In some cases your IDE may not register the types from Nuget packages immediately. Try running `dotnet restore` in your project's folder and restarting your IDE.
 
+<!--
 #### If The Template Failed to Push Origin
 
 The template should have run a post-install commit for you in order to properly setup your repository, but in the event that it failed or you were not logged in to your github when activating the template you can run the following code to push your remotes to your repository
@@ -175,3 +195,4 @@ The template should have run a post-install commit for you in order to properly 
 ```bash
 git push origin --mirror
 ```
+-->
