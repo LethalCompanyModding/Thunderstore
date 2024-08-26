@@ -113,7 +113,7 @@ Create a new folder with your project name wherever you'd like it to be on your 
 
 Example Command:
 
-{ .important }
+{: .important }
 > This command will not work in powershell due to bad escaping. You should run this command via GitBash
 
 ```bash
@@ -132,7 +132,7 @@ The template actually copies the complete git history of our source files into y
 
 Before starting, make sure you know your repo's .git url. You can get this by going to your repo in Github and looking for a button that says "<> Code" on it. Click that to get a dropdown and then copy either the HTTP or SSH git link to use in the next command.
 
-{ .note }
+{: .note }
 > You will need to run these commands in GitBash on Windows
 
 ```bash
