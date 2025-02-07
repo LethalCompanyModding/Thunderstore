@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-[![Join the Discord](https://img.shields.io/discord/1168655651455639582?color=5865F2&label=Join+The+Discord&logo=discord&style=for-the-badge)](https://discord.gg/lcmod)
+[![Join the Discord](https://img.shields.io/discord/1168655651455639582?color=5865F2&label=Join+The+Discord&logo=discord&style=for-the-badge)](https://discord.gg/XeyYqRdRGC)
 
 # Lethal Company Modding Thunderstore Repo
 
