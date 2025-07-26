@@ -126,7 +126,11 @@ This rule matches a common error that is displayed when a player ragdoll is not 
 
 ### Slight Issues
 
-None Yet
+#### LCM 10000
+
+`Expression originates from HarmonyX, this may indicate a failed type resolution`
+
+This rule matches errors specifically from HarmonyX. Harmony is the backbone of many mods so this may indicate something severe went wrong but it also may be harmless, depending on context and if a failed type resolution is mission critical to the mod. Sometimes mods will cause this to be output due to soft compatability and its harmless.
 
 ### Moderate Issues
 
@@ -157,12 +161,6 @@ This rule specifically matches _sharing violations_ that indicate a mod was unab
 ### Serious Issues
 
 Serious issues indicate something really went wrong but may still be recoverable. As such all lines matching these rules are strongly increased in weight.
-
-#### LCM 35000
-
-`Expression originates from HarmonyX, this is usually a bad sign`
-
-This rule matches errors specifically from HarmonyX. Harmony is the backbone of many mods so this indicates something pretty severe has gone wrong.
 
 ### Critical Issues
 
