@@ -29,7 +29,6 @@ Log Muncher will output any log it analyzes into easy-to-read html format that c
     - [LCM 20001](#lcm-20001)
     - [LCM 20002](#lcm-20002)
   - [Serious Issues](#serious-issues)
-    - [LCM 35000](#lcm-35000)
   - [Critical Issues](#critical-issues)
     - [LCM 40000](#lcm-40000)
 
